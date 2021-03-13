@@ -14,7 +14,7 @@ For outcomes based on goals, A new worksheet was created and sorted based on fun
 This data was then put into a line chart for further analyzation (see attached image). 
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes based on kickstarter launchdate](path/to/Theater_outcomes_vs_Launch_Tessa.png)
+![Outcomes based on kickstarter launchdate](TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Theater_outcomes_vs_Launch_Tessa.png)
 ---
 Based on this image, we can see that there are generally more successes than failures, and very few cancelations. 
 In the first few months, success and failures follow each others trends with about 20-30 more successes.
@@ -23,7 +23,7 @@ After peaking in May, the successes consistantly fall each month until September
 In the fall, failures tick up, but don not pass successes until they come even in December. 
 
 ### Analysis of Outcomes Based on Goals
-![image_name](path/to/Outcomes_vs_Goals_Tessa.png)
+![Outcomes based on Goals](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Outcomes_vs_Goals_Tessa.png)
 ---
 Based on this image of the percentage of success vs. failures based on fundrasing goal, there is a trend that generally the lower the goal more likely it is to succeed up to 15000 dollars or so.
 Failures become more prevelent until 35-40000 dollars which sees successes overtake failures, and then after failures far surpass successes. 
@@ -44,7 +44,7 @@ School being out also likely helps.
 That goals should be kept below 15,000 dollars. Some successes exist above this, but it is much more likely for a smaller goal to be met. 
 One reason the highest goals might see such failure that they do is that they aren't really for plays. 
 ---
-![All fundraisers with goals above 1,000,000 dollars](path/to/above_1,000,000.png)
+![All fundraisers with goals above 1,000,000 dollars](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/above_1%2C000%2C000.png)
 ---
 As seen, many fundraisers for goals above 1,000,000 dollars were for building or renovating theater spaces rather than putting on a play. 
 It should also be noted that fundraisers such as *Join us in creating a new Hell on Earth!* and *Capricorn Horn- Entertainment for the World's Finest Gents* might not be the most serious of attempts. 
