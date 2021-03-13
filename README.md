@@ -17,7 +17,7 @@ This data was then put into a line chart for further analyzation (see attached i
 
 ### Analysis of Outcomes Based on Launch Date
 ---
-![Outcomes based on kickstarter launchdate](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Theater_outcomes_vs_Launch_Tessa.png)
+![Outcomes based on kickstarter launchdate](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Resources/Theater_outcomes_vs_Launch_Tessa.png)
 ---
 Based on this image, we can see that there are generally more successes than failures, and very few cancelations. 
 In the first few months, success and failures follow each others trends with about 20-30 more successes.
@@ -27,7 +27,7 @@ In the fall, failures tick up, but don not pass successes until they come even i
 
 ### Analysis of Outcomes Based on Goals
 ---
-![Outcomes based on Goals](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Outcomes_vs_Goals_Tessa.png)
+![Outcomes based on Goals](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Resources/Outcomes_vs_Goals_Tessa.png)
 ---
 Based on this image of the percentage of success vs. failures based on fundrasing goal, there is a trend that generally the lower the goal more likely it is to succeed up to 15000 dollars or so.
 Failures become more prevelent until 35-40000 dollars which sees successes overtake failures, and then after failures far surpass successes. 
@@ -40,28 +40,29 @@ It should be noted that in the dataset there is a consistent distribution (thoug
 For the Outcomes based on goals, the data is very volitile due to a low number of high price goals. The data is much steadier in the lower goal brackets. 
 ## Results
 
-What are two conclusions you can draw about the Outcomes based on Launch Date?
+# What are two conclusions you can draw about the Outcomes based on Launch Date?
 ---
 That generally the Summer months starting from May and foing until September see more successes than failures. It would be best to start your fundraiser during April or a time soon after. 
 This is likely due to more time off and better weather that would encourage more patronage to theaters. 
 School being out also likely helps. 
 ---
-What can you conclude about the Outcomes based on Goals?
+# What can you conclude about the Outcomes based on Goals?
 ---
 That goals should be kept below 15,000 dollars. Some successes exist above this, but it is much more likely for a smaller goal to be met. 
 One reason the highest goals might see such failure that they do is that they aren't really for plays. 
 ---
-![All fundraisers with goals above 1,000,000 dollars](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/above_1%2C000%2C000.png)
+![All fundraisers with goals above 1,000,000 dollars](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Resources/above_1%2C000%2C000.png)
 ---
 As seen, many fundraisers for goals above 1,000,000 dollars were for building or renovating theater spaces rather than putting on a play. 
 It should also be noted that fundraisers such as *Join us in creating a new Hell on Earth!* and *Capricorn Horn- Entertainment for the World's Finest Gents* might not be the most serious of attempts. 
 Either way, I believe it is best to say that a lower goal is better and much more manageable. Escpecially if it is below 15,000 dollars. 
 It is interesting to note that the 35,000-40,000 dollar bracket saw successes overtake failures. This is likely just due to a lack of data though. 
-What are some limitations of this dataset?
+# What are some limitations of this dataset?
 ---
 That it is pretty basic. We can see when is the best time to start fundraisers, and we can also see what is the best goal to aim for, but we don't see anything about fundraiser quality, how much each individual donation was, or how many donations it took. 
 We also have data for building new theater spaces mixed in with theatrical productions, further sepeartation of the data would make for better analyzation. 
-What are some other possible tables and/or graphs that we could create?
+---
+# What are some other possible tables and/or graphs that we could create?
 ---
 A thourough look into how much money was raised by each donation. Essentially, was each success funded by a lot of people? Or a few big doners. 
 A box and whisker plot would be good too, as it would remove some of the higher outlier values for fundraisers that seek to build/renovate theater spaces. 
