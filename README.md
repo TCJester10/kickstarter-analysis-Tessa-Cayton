@@ -14,7 +14,7 @@ For outcomes based on goals, A new worksheet was created and sorted based on fun
 This data was then put into a line chart for further analyzation (see attached image). 
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes based on kickstarter launchdate](TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Theater_outcomes_vs_Launch_Tessa.png)
+![Outcomes based on kickstarter launchdate](https://github.com/TCJester10/kickstarter-analysis-Tessa-Cayton/blob/main/Theater_outcomes_vs_Launch_Tessa.png)
 ---
 Based on this image, we can see that there are generally more successes than failures, and very few cancelations. 
 In the first few months, success and failures follow each others trends with about 20-30 more successes.
