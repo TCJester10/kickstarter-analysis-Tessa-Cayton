@@ -47,7 +47,7 @@ This is likely due to more time off and better weather that would encourage more
 School being out also likely helps. 
 ---
 - What can you conclude about the Outcomes based on Goals?
-- ---
+---
 That goals should be kept below 15,000 dollars. Some successes exist above this, but it is much more likely for a smaller goal to be met. 
 One reason the highest goals might see such failure that they do is that they aren't really for plays. 
 ---
